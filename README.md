@@ -1,4 +1,4 @@
-# BF
+# BrainF**k
 A bash script that converts brainf**k code into c using sed.
 
 To compile, run Compile.sh with your file:
